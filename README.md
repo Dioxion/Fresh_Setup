@@ -1,6 +1,6 @@
 # Setup for new linux / MacOS.
 ### Oh-My-Zsh
-The "set_zsh.sh" file in Terminal folder does the following:
+The "[set_zsh.sh](https://github.com/Dioxion/Fresh_Setup/blob/main/Terminal/setup_zsh.sh)" file in Terminal folder does the following:
 1. Download Oh-My-Zsh (if already exists skip).
 2. Install plugin (zsh-autosuggestions) into original plugins directory.
 3. Replace original .zshrc with modified version.
