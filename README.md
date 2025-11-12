@@ -1,1 +1,1 @@
-Setup for new linux machine / MacOS.
+Setup for new linux / MacOS.
